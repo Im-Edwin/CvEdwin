@@ -1,0 +1,13 @@
+/* Asegúrate de que este archivo esté enlazado en tu HTML */
+#area-cv {
+  width: 794px;
+  max-width: 100%;
+  margin: 0 auto;
+  background: #fff;
+}
+
+@media print {
+  body {
+    zoom: 0.75;
+  }
+}
